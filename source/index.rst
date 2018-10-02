@@ -5,8 +5,8 @@
 
 .. _introduction::
 
-Welcome to ECAS's documentation!
-================================
+Welcome to ECAS's documentation at DKRZ!
+========================================
 
 The ENES Climate Analytics Service (ECAS) will enable scientific end-users to perform data analysis experiments on large volumes of climate data, by exploiting a PID-enabled, server-side, and parallel approach.
 
