@@ -26,6 +26,8 @@ Contents:
    b2drop
    tutorials
    usefullinks
+   filesystem
+   ecas-birdhouse
 
 Indices and tables
 ==================
