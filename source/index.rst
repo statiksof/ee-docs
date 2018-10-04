@@ -27,8 +27,7 @@ Contents:
    tutorials
    usefullinks
    filesystem
-   ecas-birdhouse
-
+   
 Indices and tables
 ==================
 
