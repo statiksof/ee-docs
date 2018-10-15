@@ -5,8 +5,8 @@
 
 .. _registration::
 
-How to register
-===============
+How to register/Log in
+======================
 
 There are two ways to register/log in to ECAS. The current release of ECAS allows authentication/authorization using LDAP.
 For this, an account at DKRZ is required.

@@ -10,8 +10,21 @@ It aims at providing a paradigm shift for the ENES community with a strong focus
 
 To login into Jupyter, enter the username and password provided to you after registration at DKRZ. If you would like an account or need assistance, please email ecas-support.
 
+Useful links
+------------
+
+* ECASLab at DKRZ https://ecaslab.dkrz.de/jupyter/
+* Registration https://ecaslab.dkrz.de/registerproc.html
+* Ophidia documentation http://ophidia.cmcc.it/documentation/index.html
+
 What you can do with ECAS?
 --------------------------
 
+* Data analysis
+* Visualization
+* Interactive programming
+
 ECAS Users
 ----------
+
+* Climate community
