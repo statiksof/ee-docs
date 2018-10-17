@@ -55,7 +55,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = ''
+project = 'ENES Climate Analytics Service'
 copyright = '2018, Sofiane Bendoukha'
 author = 'Sofiane Bendoukha'
 

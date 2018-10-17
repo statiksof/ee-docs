@@ -17,6 +17,9 @@ It aims at providing a paradigm shift for the ENES community with a strong focus
 To login into Jupyter, enter the username and password provided to you after registration at DKRZ.
 If you would like an account or need assistance, please email ecas-support@dkrz.de.
 
+
+.. note:: ECAS is part of the `EOSC-HUB service catalogue <https://eosc-hub.eu/catalogue/ENES%20Climate%20Analytics%20Service>`_
+
 Contents:
 
 .. toctree::
