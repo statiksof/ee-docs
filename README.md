@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/statiksof/ee-docs.svg?branch=master)](https://travis-ci.org/statiksof/ee-docs) 
 [![Documentation Status](https://readthedocs.org/projects/ecas-documentaion/badge/?version=latest)](https://ecas-documentaion.readthedocs.io/en/latest/?badge=latest)
+[![Join the chat at https://gitter.im/ECASLab/Lobby](https://badges.gitter.im/ECASLab/Lobby.svg)](https://gitter.im/ECASLab/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
      
 # Documentation for ECAS/ECASLab
 
