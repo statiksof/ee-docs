@@ -33,7 +33,10 @@ After you get an account and join the ECAS project, you can log in to the `Jupyt
 
 .. _aai::
 
-Login with EOSC HUB AAI
-------------------------
+Login with EOSC HUB AAI (Test only)
+-----------------------------------
 
-... coming soon
+Currently, we are working on a solution that allows you to log into ECASLab through one of EOSCHUb AAI providers: EGI Check in, B2ACCESS or Indigo IAM. This will be available soon at the production instance at DKRZ. 
+
+The consist of introducing a third party security provider that will play the broker role between ECASLab and the EOSCHUB AAI provider.  
+ 
