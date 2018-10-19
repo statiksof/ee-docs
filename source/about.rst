@@ -24,6 +24,16 @@ What you can do with ECAS?
 * Visualization
 * Interactive programming
 
+Who is providing ECAS?
+----------------------
+
+ECAS is being developed and deployed at DKRZ and CMCC. We are trying to keep both instances synchronized as much as possible.
+However, in some cases, usage of the service can slightly differ between the two instances. 
+More or less steps might be required from the users.
+This documentation is principally for ECASLab at DKRZ. 
+For specific information about Ophidia framework, we suggest that you use the official documentation. 
+ 
+
 ECAS Users
 ----------
 
