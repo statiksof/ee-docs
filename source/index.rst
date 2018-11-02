@@ -33,6 +33,7 @@ Contents:
    usefullinks
    filesystem
    ecas-birdhouse
+   contact
    
 Indices and tables
 ==================
