@@ -8,5 +8,12 @@
 ECAS and Birdhouse
 ==================
 
+.. note:: ongoing work!
+
+Objectives
+----------
+
+The integration with *Birdhouse* enables running/access ECAS processes through the web.
+
 Birdhouse
 ---------
