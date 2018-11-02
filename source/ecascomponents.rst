@@ -7,7 +7,7 @@ ECAS Components
 Architecture
 ------------
 
-.. image:: images/new-ecas-architecture.png
+.. image:: images/new_ecas_architecture.png
 
 Involved services/frameworks
 ----------------------------
