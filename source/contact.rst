@@ -7,4 +7,4 @@ If you need any kind of support related to ECAS, feel free to use one of these c
 - EMail
        ecas-support@dkrz.de
 - Gitter Chat
-       _ECAS-Chat-Room: https://gitter.im/ECAS-ECASLab/Lobby
+       `ECAS-Chat-Room <https://gitter.im/ECAS-ECASLab/Lobby>`_
