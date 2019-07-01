@@ -30,8 +30,7 @@ Contents:
    about
    ecascomponents
    registration
-   b2drop
-   b2share
+   sharing
    tutorials
    usefullinks
    filesystem

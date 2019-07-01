@@ -5,8 +5,8 @@
 
 .. _ecas-birdhouse::
 
-ECAS and Birdhouse
-==================
+ECAS and WPS
+============
 
 .. note:: ongoing work!
 

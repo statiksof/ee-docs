@@ -1,9 +1,9 @@
-.. _b2drop::
+.. _EUDAT B2DROP:
 
 Sharing with B2DROP
 ===================
 
-EUDAT B2DROP is being integrated within ECAS for two reasons:
+EUDAT B2DROP is integrated within ECAS for two reasons:
 
 * Users can share their *Notebooks*, *data* or *code* with others
 * Sensitive or private data can be pushed to a private B2DROP repository and are available only for the owner.

@@ -1,5 +1,4 @@
-.. _b2share::
-
+.. _EUDAT B2SHARE:
 
 Sharing with B2SHARE
 ====================
