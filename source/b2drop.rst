@@ -1,5 +1,3 @@
-
-
 .. _b2drop::
 
 Sharing with B2DROP
