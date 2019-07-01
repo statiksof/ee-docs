@@ -56,7 +56,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'ENES Climate Analytics Service'
-copyright = '2018, Sofiane Bendoukha'
+copyright = '2019, Sofiane Bendoukha'
 author = 'Sofiane Bendoukha'
 
 # The version info for the project you're documenting, acts as replacement for
